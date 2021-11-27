@@ -32,7 +32,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
-+ The GitHub project for this site: [filipvanlaenen/british_polls_20170608](https://github.com/filipvanlaenen/british_polls_20170608)
++ The GitHub project for this site: [filipvanlaenen/british_polls_20191212](https://github.com/filipvanlaenen/british_polls_20191212)
 
 ## Sister Websites
 
